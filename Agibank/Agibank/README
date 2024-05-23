@@ -1,0 +1,36 @@
+Nesse repositório você vai encontrar testes web do site Agi Bank e a configuração do ambiente 
+
+Para configurar o ambiente de testes é preciso :
+Baixar o VScode
+Baixar o python versão recente
+Baixar a versão atualizada do chrome driver
+instalar o robot framework via prompt de comando 
+Instalar a selenium library via prompt de comando 
+Validar que as instalações foram bem sucedidas 
+
+
+Criar a pasta do repositório no C: 
+Abrir a mesma no Vscode 
+E criar os diretórios 
+
+
+Execução do cenarios de testes : 
+Abrir o diretório tests
+Clicar no cenario: assinatura.robot
+Executar o teste: Assinar newsletter
+
+Abrir o diretório tests
+Clicar no cenario: buscageral.robot
+Executar o teste: Validar busca geral 
+
+Abrir o diretório tests
+Clicar no cenario: emprestimos.robot
+Executar o teste: Emprestimo consignado
+
+Abrir o diretório tests
+Clicar no cenario: redessociais.robot
+Executar o teste: Acessar TikTok
+
+Abrir o diretório tests
+Clicar no cenario: VerificaçãoTextos.robot
+Executar o teste: Validar acesso aos textos da plataforma
